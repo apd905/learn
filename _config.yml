@@ -1,3 +1,15 @@
-title: APD905 Learn
-description: "Powered by the Hacker theme"
-theme: pages-theme-hacker
+# Site settings
+title: Hello World
+description: A GitHub Pages site using the Hacker theme
+
+# Theme settings
+remote_theme: pages-themes/hacker@v0.2.0
+
+# Plugins required for remote themes on GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
+# Optional: Exclude files from build
+exclude:
+  - README.md
+  - LICENSE
