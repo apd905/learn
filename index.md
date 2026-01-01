@@ -3,6 +3,6 @@ layout: default
 title: Learn
 ---
 
-# Welcome to Learn
+# Welcome to Home
 
-This is my site using the Hacker theme!
+Lorem Ipsum
